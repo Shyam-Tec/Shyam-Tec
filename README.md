@@ -87,7 +87,7 @@
         <section id="contact" class="section">
             <h2>Contact</h2>
             <p>If you'd like to get in touch with me, feel free to reach out via:</p>
-            <p>Phone: <a href="tel:+965826373682">+965 826373682</a></p>
+            <p>Phone: <a href="tel:+965826373682">+965 123123826373682</a></p>
             <p>Email: <a href="mailto:shyam@example.com">shyam@example.com</a></p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/shyam-babu-chevvakula">Shyam Babu Chevvakula</a></p>
         </section>
